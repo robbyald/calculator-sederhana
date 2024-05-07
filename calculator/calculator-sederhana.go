@@ -2,7 +2,7 @@ package calculator
 
 import "errors"
 
-// Calculator struct
+// Calculator struct --
 type Calculator struct{}
 
 // Add method adds two numbers
